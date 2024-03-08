@@ -28,7 +28,7 @@ main{
 
 .text-area{
 
-    background-image: url(imagenes/Cómo-encriptar-y-desencriptar-ficheros-online-5.jpg);
+    background-image: url(imagenes/encriptar-y-desencriptar.jpg);
     background-repeat: no-repeat;
     color:aliceblue;
     background-size: cover;
@@ -46,7 +46,7 @@ main{
 
 .mensaje{
     
-    background-image: url(imagenes/encryption-1024x512.jpg);
+    background-image: url(imagenes/encryption.jpg);
     background-repeat: no-repeat;
     border: none;
     border-radius: 24px;
@@ -109,3 +109,24 @@ main{
     font-size: 24px;
     
 }
+
+@media screen and (max-width:480px){
+
+    
+
+    {
+        position: static;
+    }
+     {
+        
+        width: 100%;
+    }
+
+    .mensaje, .text-area, .btn-encriptar-url, .btn-desencriptar-url, .btn-copiar-url, .body{
+        width: auto;
+        
+    }
+    
+}
+
+
