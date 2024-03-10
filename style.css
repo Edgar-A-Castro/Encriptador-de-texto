@@ -110,23 +110,5 @@ main{
     
 }
 
-/*media screen and (max-width:480px){
 
-    
-
-    {
-        position: static;
-    }
-     {
-        
-        width: 100%;
-    }
-
-    .mensaje, .text-area, .btn-encriptar-url, .btn-desencriptar-url, .btn-copiar-url, .body{
-        width: auto;
-        
-    }
-    
-}
-*/
 
