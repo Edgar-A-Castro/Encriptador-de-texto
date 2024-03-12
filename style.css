@@ -92,18 +92,6 @@ main{
     width: 55px;
 }
 
-.btn-copiar{
-    background-image: url(imagenes/papel.png);
-    border: 1px solid #0a3871;
-    background-repeat:no-repeat;
-    background-size: 50px 60px;
-    border-radius: 10px;
-    cursor: pointer;
-    height: 60px;
-    width: 50px;
-    
-}
-
 .informacion{
     color: white;
     font-size: 24px;
